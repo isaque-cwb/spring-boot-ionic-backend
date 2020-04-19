@@ -6,7 +6,7 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
 
 import org.hibernate.validator.constraints.Length;
-
+ 
 import com.isaquelourenco.cursomc.domain.Cliente;
 import com.isaquelourenco.cursomc.services.validation.ClienteUpdate;
 
